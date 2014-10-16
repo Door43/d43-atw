@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atw:home|Door43 (atw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atw|d43-atw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atw/archive/master.zip|d43-atw.zip]]
+
+**Recent Changes**
+{{changes>ns = atw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atw|Ethnologue data]]
+
